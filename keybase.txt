@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/williamrowell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://wjrowell.info
+  * I am williamrowell (https://keybase.io/williamrowell) on keybase.
+  * I have a public key with fingerprint 7E3C EECC DE73 16D3 DA3C  0CCD 3B23 08EC 28B6 CAEB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015fe90e7ca02c2860f9979788e5cf78918ae13015fa1882209d80aa2a9abd835c0a",
+      "fingerprint": "7e3ceeccde7316d3da3c0ccd3b2308ec28b6caeb",
+      "host": "keybase.io",
+      "key_id": "3b2308ec28b6caeb",
+      "kid": "01015fe90e7ca02c2860f9979788e5cf78918ae13015fa1882209d80aa2a9abd835c0a",
+      "uid": "0e19a36094a8b13831231248c7ca3019",
+      "username": "williamrowell"
+    },
+    "merkle_root": {
+      "ctime": 1602453764,
+      "hash_meta": "3f8e4f1bcdfa1b1eeef8ae044742b626e73048d41cdef626c88c6a4d285b1199",
+      "seqno": 17802766
+    },
+    "revoke": {
+      "sig_ids": [
+        "b86b3445477aded319e905698baa79ed4f0ed86951ae57b99632cc30a251c7770f"
+      ]
+    },
+    "service": {
+      "hostname": "wjrowell.info",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1602453764,
+  "expire_in": 157680000,
+  "prev": "b5ab59654a15597d606da31d88f9a712fb0cce61c290e123336ee1e12ff04ea2",
+  "seqno": 75,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK6AnicrVNdaBxVFN6NcWk3UdL6B9qmdrRtwDTeO3fm/qxKNFBFMEWsYCGpw713
+zmSn2d1ZZyaptVmoRNAYqqhpSeqTaa2WBqFUQ6FgJJQiihZsWpGCUIugNqAojb7p
+ndTiSx8dBmbOzHe+853vnHv6lptyxfxD961Y7Jj94kr+y/mRoZw3+nLzHktF/m6r
+tMcahOUHVHxIUm8w9K2ShTDCbgACAdMS2drmFAVCMME4B1cHjAvMJWCSwSTm3LaR
+8DmS0pZCKp8TVyNpdVpBWBuAuB6HtdTQMiAaQGsfGMHUJ74kGpmQKJsgDqaMolqC
+MonlKMkyjDglE+gKI/PNBN6yvBvg/2fdQ9foAAtJKBKO5AoTTrBtbodrw24oRAZM
+IK7JKhj0rrBSCWU1jnZBpWI1Oq0qxIMV8OIoSjOHdRpmOEyR7biEUcd0KZOyV4VU
+Zk0FHJwAK+0bZQoDQGCkIsdhjq2oTY1nyOG+g419gYk155pKx7e5qzAWmZgEXqhF
+pgLjyGaUGgkxDEeDkFVPwgFjXmKV+izFqSKO4zqMSR98goVxzKWCKymZAN8JEPic
+ChdLcJkSghJba4Kk7WLNGEOBtaORVYuHQ71Mnk3rugs7rxnQFdaCbGj1OEojHVXM
+r3Ka1kuZMenu+jIUlPcviafCmm92xSQMQ5yEUc20YZA38AxerIcxeGGGcBnlyFxZ
+GRg2lMqVyhXUdSR2XcF8iqhZMuxzHgjJsB0os29AsbbNjphpEkIBsHkLAuSAtP8z
+kblGpxwwnMa5mkyHYrAa85/1N+fyxVzh5qbsEOWKK9uuH63WnStynx6/ePWE1zp+
+24+vH5rZ/kH9e+v36ONVT59tKo7cunRhrqfYeqDl7R++PvRwrTDTduzRS2va6bbC
+gb+mj880OtZvujr/XvdHT/b8vXZvb6HlnP3KxKbRudLpzoVpPf3WuXXnp+46sxIf
+3Xy2rVfuw6e+La7OPf7rhbzo8bdcPlkca1637flVffkN+7+Jf56Mn9rRvfDY2pYx
+dvnY0sJPIwuXRj+Z3Nc1Kkn1paOHmwpjW1ff+fm795a3NP7c+MA73/UlHY3x+TOn
+Ds8lS1PPFWbv2fv+xObtzwy8+eqaE38sPlF6rf3B/md/udI+6R1cf/sbvfd3X5yd
+bNuwWN5/94dTX02eHH9k4nz/b3cc2XjwHwpUeYM=
+=CRNf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/williamrowell
+
+==================================================================
